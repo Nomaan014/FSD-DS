@@ -1,3 +1,14 @@
 body{
-    
+    background-color:yellow;
+
+}
+tr{
+    background-color: aqua;
+    color: blue;
+}
+table{
+    border-radius: 25%;
+    border-color: brown;
+    border-style: groove;
+    border-width: 5px;
 }

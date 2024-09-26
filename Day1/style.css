@@ -7,7 +7,7 @@ tr{
     color: blue;
 }
 table{
-    border-radius: 25%;
+    border-radius: 2px;
     border-color: brown;
     border-style: groove;
     border-width: 5px;

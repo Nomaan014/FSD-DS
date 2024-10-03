@@ -1,0 +1,54 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+
+
+/* #myid1{
+    background-color: aqua;
+    font-size: large;
+}
+#myid2{
+    background-color: red;
+    font-size: large;
+}
+
+.myclass{
+    background-color: blue;
+} */
+
+
+
+/* descendent selector */
+/* div p {
+    background-color: aqua;
+    font-size: larger;
+    font-style: italic;
+} */
+
+
+
+/* child selector */
+div>p{
+    background-color: blue;
+    font-size: 30px;
+} 
+
+
+
+/* Adjacent selctor */
+div+p{
+    background-color: blue;
+    font-size: 30px;
+} 
+
+
+
+
+/* general selector*/
+div~p{
+    background-color: blue;
+    font-size: 30px;
+} 
